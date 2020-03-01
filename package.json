@@ -1,0 +1,38 @@
+{
+  "name": "diagram-edtior-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "fengo4142",
+  "dependencies": {
+    "font-picker-react": "^3.5.0",
+    "globalize": "^1.4.2",
+    "mxgraph": "4.1.0",
+    "react": "16.12.0",
+    "react-color": "2.18.0",
+    "react-dom": "16.12.0",
+    "react-font-picker": "^1.1.8",
+    "react-picker": "^1.2.15",
+    "react-scripts": "3.0.1",
+    "react-select": "^3.0.8",
+    "react-widgets": "^4.4.11",
+    "react-widgets-globalize": "^5.0.20",
+    "react-widgets-simple-number": "^4.1.23",
+    "xml-js": "1.6.11"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
